@@ -1,0 +1,4 @@
+Para falar a verdade eu já conhecia este problema, a resposta é ligar uma lâmpada,esperar um pouco.
+Então é só deligar e ir nas 2 salas, se a lâmpada estiver quente, ela é o primeiro interruptor.
+Se ela estiver ligada, ela é do segundo interruptor. Se estiver desligada e fria, ela é do terceiro 
+interruptor.
